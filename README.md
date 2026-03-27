@@ -1,6 +1,4 @@
-
-# Hi, I'm Miguel! 👋
-
+![Banner](banner.png)
 
 ## 🚀 About Me
 
