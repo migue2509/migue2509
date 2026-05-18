@@ -30,7 +30,7 @@ Desarrollo de una solución para estructurar y consolidar información asociada 
 
 ### Gestión de necesidades de formación
 Diseño de un proceso orientado a la recolección, organización y seguimiento de necesidades de formación, permitiendo centralizar solicitudes, optimizar la trazabilidad y segurir una modalidad de formación.
-
+ IP.+8
 ### Proyecto GPS
 Desarrollo completo de un proyecto de alta relevancia para el area de GH con múltiples etapas de ejecución, enfocado en seguimiento operativo, control de usuarios e integración de información. Incluye centralización de datos, automatización de correos electrónicos, gestión de bases de datos con más de 800 registros y administración de aproximadamente 100 usuarios dentro del flujo operativo.
 
@@ -40,6 +40,11 @@ Desarrollo de un software a la medida para la gestión operativa de una tienda d
 El proyecto se encuentra en desarrollo bajo una arquitectura hexagonal, utilizando **Python**, **Django**, **SQL** y **Docker**, con enfoque en escalabilidad, mantenibilidad y separación de responsabilidades. Incluye levantamiento de requerimientos, modelado funcional, diseño técnico, pruebas y estructuración del sistema como una solución completa de software.## 🎯 Objetivo profesional
 
 Aportar al desarrollo de soluciones tecnológicas que optimicen procesos, fortalezcan la operación y generen impacto real mediante automatización, estructuración y mejora continua.
+
+### APP_gestion_egresados
+Desarrollo de un software a la medida para la gestion de egresados en Institución Educativa Dinamarca, enfocado en seguimimiento de información personal del estudiante luego de graduarse, basado en 3 usuarios (Rectoría, Comité, Egresados) y multiples flujos de validación y registro.
+
+
 ## ## 📫 Contacto
 - GitHub: [migue2509](https://github.com/migue2509)
 - LinkedIn: [Miguel Ospina](https://www.linkedin.com/in/miguel-angel-ospina-rua-96896730a/?skipRedirect=true)
